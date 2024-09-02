@@ -1,5 +1,5 @@
 ## About me 
-Hello, my name is Gabriel Ribeiro. I am an undergraduate student in Computer Science, focusing on enhancing my knowledge in Data Science and Data Analysis, as well as developing programming skills in Python. In addition to my studies, I am a chess enthusiast in my free time.
+Hello, my name is Gabriel Ribeiro. I am an undergraduate student in Computer Science, focusing on enhancing my knowledge in Data Science and Data Analysis, as well as developing programming skills in Python. In addition to my studies, I am a LOTR enthusiast in my free time.
 
 ## Academic background 
 - Undergraduate Computer Science student at Universidade Paulista
