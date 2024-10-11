@@ -10,7 +10,7 @@ Hello, my name is Gabriel Ribeiro. I am an undergraduate student in Computer Sci
 </p>
 
 ## Undergraduate Computer Science Projects
-* ### [Environmental Topics Quiz Implemented in Java}(https://github.com/gabriel-ribeiro-data/Java-Environmental-Quiz)
+* ### [Environmental Topics Quiz Implemented in Java](https://github.com/gabriel-ribeiro-data/Java-Environmental-Quiz)
 
   Development of a Java-based educational quiz on environmental topics as part of my undergraduate studies in Computer Science.
   
