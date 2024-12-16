@@ -11,6 +11,10 @@ Hello, my name is Gabriel Ribeiro. I am an undergraduate student in Computer Sci
 
 ## Undergraduate Computer Science Projects
 
+* ### [Time Analysis of Sorting Algorithms in Java: SelectionSort, BinaryInsertionSort, and Heapsort](https://github.com/gabriel-ribeiro-data/Sorting-Algorithms-Time-Analysis)
+
+  Development of a project analyzing the time complexity of sorting algorithms implemented in Java as part of my undergraduate studies in Computer Science.
+
 * ### [Implementation of the Vigenère Cipher in Python](https://github.com/gabriel-ribeiro-data/Vigenere-Cipher-Python)
 
   Development of a Python-based project implementing the Vigenère cipher as part of my undergraduate studies in Computer Science.
