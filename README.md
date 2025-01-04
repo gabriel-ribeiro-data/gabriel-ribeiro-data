@@ -22,6 +22,9 @@ Hello, my name is Gabriel Ribeiro. I am an undergraduate student in Computer Sci
 * ### [Environmental Topics Quiz Implemented in Java](https://github.com/gabriel-ribeiro-data/Java-Environmental-Quiz)
 
   Development of a Java-based educational quiz on environmental topics as part of my undergraduate studies in Computer Science.
+
+* ### [21 SQL Practice Exercises](https://github.com/gabriel-ribeiro-data/SQL-Exercises)
+  A set of 21 introductory SQL exercises aimed at helping beginners strengthen their understanding of core database concepts and enhance their skills in writing SQL queries.
   
 * ### [15 Introductory Python Exercises](https://github.com/gabriel-ribeiro-data/Python-Exercises)
   
