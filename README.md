@@ -9,6 +9,12 @@ Hello, my name is Gabriel Ribeiro. I am an undergraduate student in Computer Sci
 <a href=https://www.linkedin.com/in/gabriel-ribeiro-data target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/gabrielribeiro-br" height="30" width="40" /></a>
 </p>
 
+## Data Analysis Projects
+
+* ### [Analysis of the Logistics Sector of a Company Using Power BI](https://github.com/gabriel-ribeiro-data/Analysis-of-the-Logistics-Sector)
+
+  This project involves a detailed data analysis of a company's logistics sector using Power BI. The data was extracted from a spreadsheet, cleaned, and transformed using Power Query, then an interactive dashboard was created to facilitate data visualization and interpretation.
+
 ## Undergraduate Computer Science Projects
 
 * ### [Time Analysis of Sorting Algorithms in Java: SelectionSort, BinaryInsertionSort, and Heapsort](https://github.com/gabriel-ribeiro-data/Sorting-Algorithms-Time-Analysis)
