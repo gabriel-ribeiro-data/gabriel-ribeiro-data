@@ -15,6 +15,10 @@ Hello, my name is Gabriel Ribeiro. I am an undergraduate student in Computer Sci
 
   This project involves a detailed data analysis of a company's logistics sector using Power BI. The data was extracted from a spreadsheet, cleaned, and transformed using Power Query, then an interactive dashboard was created to facilitate data visualization and interpretation.
 
+* ### [Visualization and Analysis of Car Sales Using Microsoft Excel](https://github.com/gabriel-ribeiro-data/Visualization-and-Analysis-of-Car-Sales)
+
+  This repository features a data analysis project focused on car sales, utilizing pivot tables in Microsoft Excel for the creation of an interactive dashboard and was developed during my studies in the IBM Data Analyst Professional Certificate course.
+
 ## Undergraduate Computer Science Projects
 
 * ### [Time Analysis of Sorting Algorithms in Java: SelectionSort, BinaryInsertionSort, and Heapsort](https://github.com/gabriel-ribeiro-data/Sorting-Algorithms-Time-Analysis)
