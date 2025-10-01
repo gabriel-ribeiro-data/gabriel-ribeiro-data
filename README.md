@@ -19,7 +19,7 @@ Hello, my name is Gabriel Ribeiro. I am a Bachelor's student in Computer Science
 
   This repository features a data analysis project focused on car sales, utilizing pivot tables in Microsoft Excel for the creation of an interactive dashboard, and it was developed during my studies in the IBM Data Analyst Professional Certificate course.
 
-## Bachelor's Projects in Computer Science
+## Computer Science Projects
 
 * ### [Time Analysis of Sorting Algorithms in Java: SelectionSort, BinaryInsertionSort, and Heapsort](https://github.com/gabriel-ribeiro-data/Sorting-Algorithms-Time-Analysis)
 
